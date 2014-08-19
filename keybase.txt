@@ -1,0 +1,58 @@
+://keybase.io/hanneshofer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hanneshofer.github.io
+  * I am hanneshofer (https://keybase.io/hanneshofer) on keybase.
+  * I have a public key with fingerprint 7DD8 02ED ECBC 446A B066  4AFD 5EC2 6DE1 F013 31C8
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7dd802edecbc446ab0664afd5ec26de1f01331c8",
+            "host": "keybase.io",
+            "key_id": "5ec26de1f01331c8",
+            "uid": "1eb6c6e270be99a5e701507f20531a00",
+            "username": "hanneshofer"
+        },
+        "service": {
+            "hostname": "hanneshofer.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408478254,
+    "expire_in": 157680000,
+    "prev": "beff353453fcd2324f1276864f3956bb82a278ed854085417ec38540fd5cf627",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFtkb9rFEEUx1cv6nlBMIikEDEMRCIcYX7szM5tKgv7+ANsQo6dmTe3o7nddXfv
+knCkF2wEQf+JoIVWqcRK9B9IFwQbu4BWFupM1EqnmXnvfd73vXnv6YVO1F3YfDf+
+dHyJvD/18e1PFd39un9zhlRpdlE6Qw/h5LKuGEFd1a5oUYoSYySmYEArHcciU1iI
+OLOGg6bCALGYMEa0RH2Ul03I8DIqa2DVld7njaEz3vsffnISIKCEFkATrGAwyDgk
+mHCcWIo5IxnGAWygLrIxeDrPigKavLRQo70+8oGp0xDaDtX/hVZHrs0n6nczVV22
+pS63AtK2VZMGiXa3CjnboIZ/1IbKFcYPwWdMoW5cWaCUeFK3LsiTGMs4kZTHfQQ7
+lath6ALBEyGxP6EOTL2kAmsZZzFnVhvKaGwJ9YyILRtwoZSkGU0kGMm9Io9JApqF
+tx+utoImKPzvUVGiVPg2s5GXbNyoyNpJDWiv93hzLlroRmfPnA5rjHrnL/5d7qsv
+0ffOi+tH9593Vx58WLmx9Kx3ML92eLQ2v945J8dXbi9f3Yh+yMV8Cc9ubciXi/v2
+YO6eXv98PHty+ObOt8vLybXX7Bc=
+=l0hv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hanneshofer
+
+==================================================================
